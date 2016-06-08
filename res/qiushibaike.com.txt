@@ -1,0 +1,30 @@
+www.qiushibaike.com           	203.195.143.21
+groups.qiushibaike.com        	103.37.145.167
+pigg-life.qiushibaike.com     	103.37.145.167
+app.qiushibaike.com           	203.195.190.248
+mail.qiushibaike.com          	203.195.190.248
+pay.qiushibaike.com           	203.195.151.246, 203.195.149.167
+static.qiushibaike.com        	113.105.141.141, 183.56.150.144, 119.147.33.20, 113.107.238.19, 119.147.253.14, 119.147.33.19, 113.105.73.146, 119.147.33.21, 119.147.33.22, 183.56.150.141, 113.105.141.142, 183.56.150.143, 119.147.253.15, 119.147.33.18, 119.147.253.16
+video.qiushibaike.com         	203.195.188.151
+share.qiushibaike.com         	203.195.200.171
+open.qiushibaike.com          	203.195.151.246
+m.qiushibaike.com             	203.195.143.21
+img.qiushibaike.com           	203.195.151.34
+api.qiushibaike.com           	203.195.200.171
+promotion.qiushibaike.com     	14.215.9.85, 119.145.207.58, 183.6.240.149, 183.6.240.148
+m2.qiushibaike.com            	119.29.47.97
+arc.qiushibaike.com           	218.23.120.84
+cafe.qiushibaike.com          	119.29.47.97
+img1.qiushibaike.com          	220.170.186.112
+about.qiushibaike.com         	203.195.188.151
+pic.qiushibaike.com           	119.147.33.19, 113.105.141.141, 113.105.73.146, 183.56.150.143, 119.147.253.16, 119.147.253.15, 183.56.150.141, 119.147.33.21, 119.147.253.14, 119.147.33.22, 113.105.141.142, 183.56.150.144, 113.107.238.19, 119.147.33.18, 119.147.33.20
+f.qiushibaike.com             	183.6.240.149, 119.145.207.58, 183.6.240.148, 14.215.9.85
+img0.qiushibaike.com          	58.22.101.149
+press.qiushibaike.com         	42.51.2.2
+log.qiushibaike.com           	218.23.120.84
+crash.qiushibaike.com         	127.0.0.1
+push.qiushibaike.com          	119.29.8.233
+tim.qiushibaike.com           	203.195.191.194
+vote.qiushibaike.com          	119.29.34.241
+php.qiushibaike.com           	220.178.60.118
+zt.qiushibaike.com            	220.178.60.118
