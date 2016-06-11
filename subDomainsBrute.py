@@ -93,7 +93,7 @@ class DNSBrute:
             for _ in range(3):
                 try:
                     cur_sub_domain = sub + '.' + self.target
-                    answers = d.resolvers[thread_id].query(cur_sub_domain)
+                    answers = self.resolvers[thread_id].query(cur_sub_domain)
                     is_wildcard_record = False
                     if answers:
                         for answer in answers:
@@ -119,7 +119,7 @@ class DNSBrute:
                             self.outfile.write(cur_sub_domain.ljust(30) + '\t' + ips + '\n')
                             self.lock.release()
                             try:
-                                d.resolvers[thread_id].query('*.' + cur_sub_domain)
+                                self.resolvers[thread_id].query('*.' + cur_sub_domain)
                             except:
                                 for i in self.next_subs:
                                     self.queue.put(i + '.' + sub)
